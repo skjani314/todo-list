@@ -1,0 +1,17 @@
+.post{
+
+background-color: aliceblue;
+border-radius: 5px;
+color: black;
+font-size: 30px;
+border:1px solid black;
+margin: 5px;;
+}
+.ic-circle{
+size: 50% 50%;
+color:blueviolet;
+
+}
+.ic-trash{
+    color: red;
+}
